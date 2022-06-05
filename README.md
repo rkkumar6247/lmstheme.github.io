@@ -1,6 +1,6 @@
 # Responsive LMS Theme
-This theme created for Learning Management System/Online Education Course.
-<a href="https://rkkumar6247.github.io/lmstheme.github.io/">Demo</a>
+This theme created for Learning Management System/Online Education Course.<br>
+<a href="https://rkkumar6247.github.io/lmstheme.github.io/" target="_blank">Demo</a>
 
 # Features 
 Dark Mode<br>
